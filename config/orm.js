@@ -41,25 +41,26 @@ var orm = {
       }
     timestamp += month + '-';
     var day = '' + d.getDate(); 
-      // handle 1 digit day of month
+      
       if(day.length == 1){
         day = '0' + day;
       }
     timestamp += day + ' ';
-    var hour = '' + d.getHours(); // must be string
-      // handle 1 digit hour
+    var hour = '' + d.getHours(); 
+      
       if(hour.length == 1){
         hour = '0' + hour;
       }
     timestamp += hour + ':';
-    var minute = '' + d.getMinutes(); // must be string
-      // handle 1 digit minute
+    var minute = '' + d.getMinutes(); 
+    
+
       if(minute.length == 1){
         minute = '0' + minute;
       }
     timestamp += minute + ':';
-    var second = '' + d.getSeconds(); // must be string
-      // handle 1 digit second
+    var second = '' + d.getSeconds(); 
+    
       if(second.length == 1){
         second = '0' + second;
       }
