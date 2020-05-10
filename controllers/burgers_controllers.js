@@ -35,6 +35,13 @@ router.post('/burger/eat/:id', function (req, res) {
   });
 });
 
+//router.delete("/burger/delete/:id", function(req, res) {
+ // burger.destroyOne
+
+//  burger.delete(condition, function(result) {
+ //   res.redirect('/index');
+//  });
+//});
 
 
 
