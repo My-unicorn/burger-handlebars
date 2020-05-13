@@ -1,13 +1,37 @@
 body {
-  background-color: #FFD5EF;
+  background-color: #ffd5ef;
 }
+
 img {
   width: 15%;
 }
-.red_font {
-  color: #D123A6;
+
+.main_font{
+  color: #ff0077;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.purple_font {
+  color: #d123a6;
+}
+
 .tiny_text {
   font-size: 11px;
-  color: #822FA8;
+  color: #f743ca;
+}
+
+.danger{
+  background-color: #f83b93;
+  color: #ffff;
+  outline: none;
+}
+
+.btn-light{
+  background-color: #d123a6;
+  outline: none;
+  color:#ffff;
+}
+
+.submit{
+  background-color: rgb(233, 57, 154);
+  color: #ffff;
 }
