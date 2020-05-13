@@ -25,3 +25,9 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 ## DEMO ##
 
 <img src = "pinky.png"  style ="width: 100px">
+
+
+
+## Heroku ## 
+
+Please check out the launched app heroku here! 
