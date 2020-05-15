@@ -1,4 +1,4 @@
-INSERT INTO burgers(burger_name, devoured, date)
+INSERT INTO burgers (burger_name, devoured, date)
 VALUES ("Big Mac", false, "2020-05-10 04:20:00"),
   ("Whooper", false, "2020-05-10 04:20:01"),
   ("Cheezburger", false, "2020-05-10 04:20:02"),

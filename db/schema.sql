@@ -1,6 +1,4 @@
-CREATE DATABASE burgers_db;
-
-USE burgers_db;
+USE zj7y4qc8vob69aed;
 
 
 -- Table Creation
