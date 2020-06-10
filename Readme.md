@@ -30,4 +30,4 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
 
 ## Heroku 
 
-Please check out the launched app heroku [here](https://desolate-anchorage-67292.herokuapp.com/index)
+Please check out the launched app heroku [here](https://evening-wave-66529.herokuapp.com/index)
